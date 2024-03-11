@@ -1,11 +1,11 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.numerodono = "6285920649151";
-global.nomedono = "Venom Mods";
+global.numerodono = "6282393734303";
+global.nomedono = "Veods";
 global.prefixo = ".";
 global.packnome = "feito por:\ncriador:\ncanal:";
-global.author = "𝑽𝒆𝒏𝒐𝒎𝑪𝒐𝒍𝒍𝒂𝒃 8𝒌\n6285920649151\nyoutube.com/@AkmalMods";
+global.author = "8𝒌\n6285920649151\nyoutube.com/";
 global.autoGravar = false;
 global.autoDigitar = false;
 global.autoreDigitarGravar = false;
